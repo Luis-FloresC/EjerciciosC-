@@ -4,7 +4,7 @@ using namespace std;
 char genero;
 int main()
 {
-	;
+	
 	cout << "Genero (m o f): ";
 	cin >> genero;
 	genero = tolower(genero);
